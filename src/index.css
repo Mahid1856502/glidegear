@@ -353,7 +353,7 @@ body {
 }
 #slide .item .image img {
   /* width: 65%; */
-  height: 70%;
+  max-height: 70%;
   transition: 0.5s;
 }
 #slide .item .image::before {
